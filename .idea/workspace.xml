@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ff708f5-4c9a-45a3-a808-8a04351c6d60" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/AutoExercisesHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/AutoExercisesHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/AutoExercisesInfoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/AutoExercisesInfoPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/AutoExercisesNewUserSignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/AutoExercisesNewUserSignUpPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/MortgageLoanBreakdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/MortgageLoanBreakdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/MortgageRepaymentSummary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/MortgageRepaymentSummary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/NewtoursFlightPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/NewtoursFlightPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/NewtoursHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/NewtoursHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/NewtoursRegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/NewtoursRegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/SwagLabCheckoutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/SwagLabCheckoutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/SwagLabCompletePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/SwagLabCompletePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/SwagLabFinishPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/SwagLabFinishPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/SwagLabHomePage1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/SwagLabHomePage1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/SwagLabProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/SwagLabProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/UkbaConfirmationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/UkbaConfirmationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/UkbaHowLongPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/UkbaHowLongPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/UkbaNationalityPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/UkbaNationalityPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/UkbaTravellingWithOrWithoutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/UkbaTravellingWithOrWithoutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/page/UkbaWhat2DoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/page/UkbaWhat2DoPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/feature_files/AutoExe.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/feature_files/AutoExe.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/feature_files/Autoexe2.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/feature_files/Autoexe2.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/feature_files/MortgageCal.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/feature_files/MortgageCal.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/feature_files/Newtours.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/feature_files/Newtours.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/feature_files/SwagLab.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/feature_files/SwagLab.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/feature_files/Ukba.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/feature_files/Ukba.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefs/AutoexeStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefs/AutoexeStepDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefs/AutoexeStepDefs2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefs/AutoexeStepDefs2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefs/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefs/Hook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefs/MortgageStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefs/MortgageStepDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefs/NewtoursStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefs/NewtoursStepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefs/SwagLabStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefs/SwagLabStepDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefs/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefs/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefs/UkbaStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefs/UkbaStepDefs.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ZC5RlRvN3exjPjibV21UZgkiWK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="page" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ff708f5-4c9a-45a3-a808-8a04351c6d60" name="Changes" comment="" />
+      <created>1701913217850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701913217850</updated>
+    </task>
+    <servers />
+  </component>
+</project>
